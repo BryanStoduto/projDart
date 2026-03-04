@@ -1,4 +1,3 @@
-1
 
 void main() {
   print("Seja bem vindo irei lhe mostrar seus dados.");
@@ -18,10 +17,6 @@ void main() {
 }
 
 
-||||||||||||||||||||||||||||||||||||||||||||||||||||||
-
-2
-
 void main() {
   
    print("Vamos passar os valores corretos");
@@ -31,11 +26,8 @@ var vlringresso=20;
 
 var resultado =(vlringresso/4);
   print(resultado);
-  ]
+}
 
-||||||||||||||||||||||||||||||||||||||||||||||||||||||
-
-3
 
 void main() {
   
@@ -56,9 +48,6 @@ var area =(bmaior+bmenor*h /2);
 print("O valor da área desse trapézio é de 10 a 13");
 }
 
-||||||||||||||||||||||||||||||||||||||||||||||||||||||
-
-4
 
 void main(){
   
@@ -76,11 +65,12 @@ void main(){
   
  
   
-        print ("O quadrado de lado: "
+    print ("O quadrado de lado: "
                 +lado+"\n Área: "+ calcularArea);
   
   print ("\nPerimetro: "+calcularPerimetro);
                 
 
   
+
 }
